@@ -1,0 +1,12 @@
+## Interface: 11503
+## Title: RangeMonitor
+## Notes: Simple proximity range monitor
+## Author: Cosmoon
+## Version: 0.2.0
+## SavedVariables: RangeMonitorDB
+
+Core.lua
+RangeProbes.lua
+Range.lua
+Comms.lua
+UI.lua
